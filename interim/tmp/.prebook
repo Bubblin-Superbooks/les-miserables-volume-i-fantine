@@ -20,27 +20,27 @@
     "len": 2
   },
   "5": {
-    "img": "/images/1spinesTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/1spinesTH.jpg",
     "len": ""
   },
   "6": {
-    "img": "/images/1coverTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/1coverTH.jpg",
     "len": ""
   },
   "7": {
-    "img": "/images/1frontpapersTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/1frontpapersTH.jpg",
     "len": ""
   },
   "8": {
-    "img": "/images/1frontispieceTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/1frontispieceTH.jpg",
     "len": ""
   },
   "9": {
-    "img": "/images/1titlepageTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/1titlepageTH.jpg",
     "len": ""
   },
   "10": {
-    "img": "/images/1versoTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/1versoTH.jpg",
     "len": ""
   },
   "11": {
@@ -552,7 +552,7 @@
     "len": 62
   },
   "138": {
-    "img": "/images/1b1-5-comfortorTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/1b1-5-comfortorTH.jpg",
     "len": ""
   },
   "139": {
@@ -3148,7 +3148,7 @@
     "len": 20
   },
   "787": {
-    "img": "/images/1b2-10-the-fallTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/1b2-10-the-fallTH.jpg",
     "len": ""
   },
   "788": {
@@ -3732,7 +3732,7 @@
     "len": 21
   },
   "933": {
-    "img": "/images/1b2-11-awakenedTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/1b2-11-awakenedTH.jpg",
     "len": ""
   },
   "934": {
@@ -5036,7 +5036,7 @@
     "len": 50
   },
   "1259": {
-    "img": "/images/1b4-1-cossette-sweepingTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/1b4-1-cossette-sweepingTH.jpg",
     "len": ""
   },
   "1260": {
@@ -7728,7 +7728,7 @@
     "len": 73
   },
   "1932": {
-    "img": "/images/1b7-3-into-the-fireTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/1b7-3-into-the-fireTH.jpg",
     "len": ""
   },
   "1933": {
@@ -9660,7 +9660,7 @@
     "len": 110
   },
   "2415": {
-    "img": "/images/1b7-10-father-chapmathieuTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/1b7-10-father-chapmathieuTH.jpg",
     "len": ""
   },
   "2416": {
@@ -10880,11 +10880,11 @@
     "len": 8
   },
   "2720": {
-    "img": "/images/2frontispieceTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/2frontispieceTH.jpg",
     "len": ""
   },
   "2721": {
-    "img": "/images/2titlepageTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/2titlepageTH.jpg",
     "len": ""
   },
   "2722": {
@@ -12388,7 +12388,7 @@
     "len": 12
   },
   "3097": {
-    "img": "/images/2b2-1-the-ship-orionTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/2b2-1-the-ship-orionTH.jpg",
     "len": ""
   },
   "3098": {
@@ -14992,7 +14992,7 @@
     "len": 6
   },
   "3748": {
-    "img": "/images/2b3-10-gorbeau-houseTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/2b3-10-gorbeau-houseTH.jpg",
     "len": ""
   },
   "3749": {
@@ -15520,7 +15520,7 @@
     "len": 35
   },
   "3880": {
-    "img": "/images/2b5-1-black-huntTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/2b5-1-black-huntTH.jpg",
     "len": ""
   },
   "3881": {
@@ -16628,7 +16628,7 @@
     "len": 20
   },
   "4157": {
-    "img": "/images/2b5-10-javert-on-the-huntTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/2b5-10-javert-on-the-huntTH.jpg",
     "len": ""
   },
   "4158": {
@@ -20232,7 +20232,7 @@
     "len": 53
   },
   "5058": {
-    "img": "/images/2b8-7-resurrectionTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/2b8-7-resurrectionTH.jpg",
     "len": ""
   },
   "5059": {
@@ -20676,7 +20676,7 @@
     "len": 121
   },
   "5169": {
-    "img": "/images/2b8-9-baknote.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/2b8-9-baknote.jpg",
     "len": ""
   },
   "5170": {
@@ -20864,11 +20864,11 @@
     "len": 4
   },
   "5216": {
-    "img": "/images/3frontispieceTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/3frontispieceTH.jpg",
     "len": ""
   },
   "5217": {
-    "img": "/images/3titlepageTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/3titlepageTH.jpg",
     "len": ""
   },
   "5218": {
@@ -21220,7 +21220,7 @@
     "len": 5
   },
   "5305": {
-    "img": "/images/3b1-13-gavrocheTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/3b1-13-gavrocheTH.jpg",
     "len": ""
   },
   "5306": {
@@ -22720,7 +22720,7 @@
     "len": 23
   },
   "5680": {
-    "img": "/images/3b4-1-abc-friendsTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/3b4-1-abc-friendsTH.jpg",
     "len": ""
   },
   "5681": {
@@ -23704,7 +23704,7 @@
     "len": 5
   },
   "5926": {
-    "img": "/images/3b5-1-misfortuneTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/3b5-1-misfortuneTH.jpg",
     "len": ""
   },
   "5927": {
@@ -25208,7 +25208,7 @@
     "len": 7
   },
   "6302": {
-    "img": "/images/3b8-4-rose-in-miseryTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/3b8-4-rose-in-miseryTH.jpg",
     "len": ""
   },
   "6303": {
@@ -29280,7 +29280,7 @@
     "len": 19
   },
   "7320": {
-    "img": "/images/3b8-20-red-hot-chiselTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/3b8-20-red-hot-chiselTH.jpg",
     "len": ""
   },
   "7321": {
@@ -29512,7 +29512,7 @@
     "len": 93
   },
   "7378": {
-    "img": "/images/3b8-21-paving-stoneTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/3b8-21-paving-stoneTH.jpg",
     "len": ""
   },
   "7379": {
@@ -29960,11 +29960,11 @@
     "len": 5
   },
   "7490": {
-    "img": "/images/4frontispieceTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/4frontispieceTH.jpg",
     "len": ""
   },
   "7491": {
-    "img": "/images/4titlepageTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/4titlepageTH.jpg",
     "len": ""
   },
   "7492": {
@@ -30548,7 +30548,7 @@
     "len": 14
   },
   "7637": {
-    "img": "/images/4b1-5-street-oratorTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/4b1-5-street-oratorTH.jpg",
     "len": ""
   },
   "7638": {
@@ -30736,7 +30736,7 @@
     "len": 53
   },
   "7684": {
-    "img": "/images/4b1-5-a-page26.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/4b1-5-a-page26.jpg",
     "len": ""
   },
   "7685": {
@@ -32936,7 +32936,7 @@
     "len": 76
   },
   "8234": {
-    "img": "/images/4b4-1-succor-from-belowTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/4b4-1-succor-from-belowTH.jpg",
     "len": ""
   },
   "8235": {
@@ -33604,7 +33604,7 @@
     "len": 8
   },
   "8401": {
-    "img": "/images/4b4-5-cossette-after-letterTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/4b4-5-cossette-after-letterTH.jpg",
     "len": ""
   },
   "8402": {
@@ -35944,7 +35944,7 @@
     "len": 4
   },
   "8986": {
-    "img": "/images/4b7-1-slangTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/4b7-1-slangTH.jpg",
     "len": ""
   },
   "8987": {
@@ -41164,7 +41164,7 @@
     "len": 7
   },
   "10291": {
-    "img": "/images/4b14-1-grandeur-of-despairTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/4b14-1-grandeur-of-despairTH.jpg",
     "len": ""
   },
   "10292": {
@@ -42952,11 +42952,11 @@
     "len": 5
   },
   "10738": {
-    "img": "/images/5frontispieceTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/5frontispieceTH.jpg",
     "len": ""
   },
   "10739": {
-    "img": "/images/5titlepageTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/5titlepageTH.jpg",
     "len": ""
   },
   "10740": {
@@ -50008,7 +50008,7 @@
     "len": 9
   },
   "12502": {
-    "img": "/images/5b7-1-last-dropTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/5b7-1-last-dropTH.jpg",
     "len": ""
   },
   "12503": {
@@ -50960,7 +50960,7 @@
     "len": 8
   },
   "12740": {
-    "img": "/images/5b8-1-twilight-declineTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/5b8-1-twilight-declineTH.jpg",
     "len": ""
   },
   "12741": {
@@ -53336,7 +53336,7 @@
     "len": 23
   },
   "13334": {
-    "img": "/images/5b9-1-darknessTH.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/les-mis-rables/master/assets/images/5b9-1-darknessTH.jpg",
     "len": ""
   },
   "13335": {

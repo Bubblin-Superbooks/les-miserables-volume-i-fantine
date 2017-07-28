@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Les Misérables",
-  "type": "text"
+  "type": "text",
+  "book_id": 478
 }
